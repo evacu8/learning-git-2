@@ -1,0 +1,24 @@
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    background-image: url("https://i.postimg.cc/sxbRX8CK/witcher-logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2c2c54;
+    
+}
+h1, h4 {
+    padding: 5px 0;
+    font-style: normal;
+}
+h4 {
+    font-style: italic;
+}
+.verse {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 18px;
+}
