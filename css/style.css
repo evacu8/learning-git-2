@@ -8,7 +8,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #2c2c54;
-    
 }
 h1, h4 {
     padding: 5px 0;
@@ -22,4 +21,8 @@ h4 {
     margin-bottom: 10px;
     font-weight: 700;
     font-size: 18px;
+}
+.verse:hover {
+    color: #ff4757;
+    transition-duration: 3s;
 }
