@@ -26,3 +26,7 @@ h4 {
     color: #ff4757;
     transition-duration: 3s;
 }
+
+.green {
+  color: green;
+}
